@@ -15,9 +15,13 @@ Built with **Node.js + Express.js + MongoDB + EJS (HTML, CSS, JavaScript)**.
 ## 👩‍🎓 Intern Details
 
 Name:KANDEPU DHANA LAKSHMI
-Student Id:CA/DF1/23633  
-Internship Domain: Full Stack Web Development  
+
+Student Id:CA/DF1/23633
+
+Internship Domain: Full Stack Web Development 
+
 Organization:Code Alpha
+
 Project Name:Simple E-commerce Store 
 
 
@@ -36,19 +40,19 @@ Project Name:Simple E-commerce Store
 ## 📸 Project Screenshots
 
 ### CMD - Server Running
-C:\Users\Lenovo PC\Desktop\EcommerceStore\CMD Server Running & API Test.png
+![CMD - Server Running](https://raw.githubusercontent.com/DhanaLakshmi5B1/CodeAlpha_EcommerceStore/main/CMD%20Server%20Running%20&%20API%20Test.png)
 
 ### Products Page
-C:\Users\Lenovo PC\Desktop\EcommerceStore\Products page.png
+![Products Page](https://raw.githubusercontent.com/DhanaLakshmi5B1/CodeAlpha_EcommerceStore/main/Products%20page.png)
 
 ### Register Page
-C:\Users\Lenovo PC\Desktop\EcommerceStore\Register page.png
+![Register Page](https://raw.githubusercontent.com/DhanaLakshmi5B1/CodeAlpha_EcommerceStore/main/Register%20page.png)
 
 ### Login Page
-C:\Users\Lenovo PC\Desktop\EcommerceStore\Login page.png
+![Login Page](https://raw.githubusercontent.com/DhanaLakshmi5B1/CodeAlpha_EcommerceStore/main/Login%20page.png)
 
 ### Order Page
-C:\Users\Lenovo PC\Desktop\EcommerceStore\Order page.png
+![Order Page](https://raw.githubusercontent.com/DhanaLakshmi5B1/CodeAlpha_EcommerceStore/main/Order%20page.png)
 
 ---
 
